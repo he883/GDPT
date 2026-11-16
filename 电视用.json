@@ -17,7 +17,7 @@
       "key": "贝乐虎",
       "name": "📚贝乐虎｜教育",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/he883/GDPT/blob/main/spider.jar",
+      "api": "./spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
