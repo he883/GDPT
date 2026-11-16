@@ -1,0 +1,46 @@
+
+
+
+    {"key":"drpy_js_好趣网","name":"🤹🏻‍好趣网直播","type":3,
+"jar":"./miaobo/fan.jar;md5;71d846866f2ceb9666ba114e5963983f",
+"api":"./miaobo/drpy.min.js","ext":"./miaobo/好趣网.js"},   
+            
+            {
+            "key": "feimaolive",
+            "name": "feimaolive电视┃直播",
+            "type": 3,
+            "api": "./miaobo/feimaolive2vod(1).js",
+            "ext": "./miaobo/feimaolive(1).json"
+        },                        
+                                    
+          {
+            "key": "直播转点播",
+            "name": "🐼️┃电视┃直播",
+            "type": 3,
+            "api": "./miaobo/直播转点播2.js",
+            "ext": "./miaobo/直播仓.json"
+        },
+        
+    {
+      "key": "lf_live10_min",
+      "name": "📺︎tv直播",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://d.kstore.dev/download/12407/tv%E7%9B%B4%E6%92%AD/lf_live10_min-output.js",
+      "ext": "https://d.kstore.dev/download/12407/tv%E7%9B%B4%E6%92%AD/lf_live.json"
+    },
+
+
+{"key": "drpy_sszb11","name": "涩涩11🔞直播",
+"jar":"https://d.kstore.dev/download/12407/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD/CFlLnSbJ",
+"type": 3,"playerType": 2,"api":"./lib/drpy0.min.js","ext": "./lib/ss直播.js"},
+    
+{"key": "drpy_sszb","name": "涩涩🔞直播","type": 3,"playerType": 2,
+"jar":"https://d.kstore.dev/download/12407/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD/CFlLnSbJ",
+"api":"https://pan.szfx.top/down.php/f61ee97fa37bcae1968002b5b962f68d.js","ext": "http://pan.daliutv.top:2025/down.php/5140cdda01ad11051718ac31478e8106.js"},
+
+ {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.js","ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"},
+         

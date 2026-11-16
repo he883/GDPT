@@ -1,0 +1,24 @@
+#订阅名
+地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+
+相对路径说明
+以./开头，相对位置是本订阅文件
+以/开头，存储卡的根目录
+
+#猫TV直播
+http://rihou.cc:567/gggg.nzk
+#流年线路
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+#易发线路🔞
+https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
+#JackTV直播{翻}专线
+https://php.946985.filegear-sg.me/jackTV.m3u
+#自用凯速云线路
+https://d.kstore.dev/download/12407/%E8%87%AA%E5%B7%B1%E7%9A%84%E6%9C%80%E6%96%B0%E8%83%BD%E7%94%A82025.txt
+
+#自用初心云线路
+https://chuxinya.top/f/p8l0HA/%E8%87%AA%E7%94%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+#月光宝盒专线
+https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
+
+//{"name": "🌌JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}}
