@@ -18,7 +18,7 @@
       "name": "📚贝乐虎｜教育",
       "type": 3,
       "api": "csp_BeiLeHu",
-		"jar": "./spider.jar",
+		"jar": "https://github.com/he883/GDPT/blob/main/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
@@ -6552,15 +6552,15 @@
             "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/兔小贝.js"
+      "api": "https://github.com/he883/GDPT/blob/lib/drpy.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
 
     },    
 
     {
       "key": "csp_XYQHiker_兔小贝",
       "name": "🐰兔小贝XYQ",
-      "jar": "./jar/ttkx.jar",
+      "jar": "https://github.com/he883/GDPT/blob/jar/ttkx.jar",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -6623,7 +6623,7 @@
     {
       "key": "csp_XYQHiker_兔小贝2",
       "name": "🐰兔小贝XYQ2",
-      "jar": "./jar/ttkx.jar",
+      "jar": "https://github.com/he883/GDPT/blob/jar/ttkx.jar",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
@@ -6689,7 +6689,7 @@
     //  "key": "TuXiaoBei",
   //    "name": "小兔｜少儿",
    //   "type": 3,
- //       "jar": "./jar/fish03181804.php;md5;c82da63bc81aec17a83716944d8599ff",
+ //       "jar": "https://github.com/he883/GDPT/blob/jar/fish03181804.php;md5;c82da63bc81aec17a83716944d8599ff",
 //         "api": "csp_TuXiaoBei",
    //   "searchable": 1,
  //     "quickSearch": 1,
@@ -6699,7 +6699,7 @@
   //    "key": "BeiLeHu",
  //     "name": "小虎｜少儿（内置🈲用）",
   //    "type": 3,
- //       "jar": "./jar/fish03181804.php;md5;c82da63bc81aec17a83716944d8599ff",
+ //       "jar": "https://github.com/he883/GDPT/blob/jar/fish03181804.php;md5;c82da63bc81aec17a83716944d8599ff",
  //        "api": "csp_BeiLeHu",
  //     "searchable": 0,
  //     "quickSearch": 0,
@@ -6876,8 +6876,8 @@
       "name": "厂长",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/厂长.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/js/%E5%8E%82%E9%95%BF.js"
     },
 
     {
@@ -6885,22 +6885,22 @@
       "name": "厂长【需挂】",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/厂长资源.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/js/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
     },            
         {
       "key": "🚨优酷",
       "name": "优优[官]🌏",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/%E4%BC%98%E9%85%B7.js"
     },
 
     {
       "key": "腾讯视频",
       "name": "腾讯视频",
       "type": 3,
-      "api": "./lib/腾讯视频.py",
+      "api": "https://github.com/he883/GDPT/blob/lib/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -6908,36 +6908,36 @@
       "key": "🚨腾讯",
       "name": "腾腾[官]🌏",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/%E8%85%BE%E8%AE%AF.js"
     },
     {
       "key": "🚨芒果",
       "name": "芒芒[官]🌏",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/芒果.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/%E8%8A%92%E6%9E%9C.js"
     },
         {
       "key": "🚨奇艺",
       "name": "奇奇[官]🌏",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/%E7%88%B1%E5%A5%87%E8%89%BA.js"
     },
     {
       "key": "drpy_js_360影视",
       "name": "😈360心魔自用😈 ",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/360%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "官源 | 搜狗 ",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
+      "api": "https://github.com/he883/GDPT/blob/js/drpy2.min.js",
+      "ext": "https://github.com/he883/GDPT/blob/lib/%E8%8F%9C%E7%8B%97.js"
     },
         
     {
@@ -6951,7 +6951,7 @@
       "filterable": 0
     },
     
-{"key":"drpy_js_酷6网","name":"🃏酷6网","type":3,"api":"./lib/drpy.min.js","ext":"./lib/酷6网.js"},
+{"key":"drpy_js_酷6网","name":"🃏酷6网","type":3,"api":"https://github.com/he883/GDPT/blob/lib/drpy.min.js","ext":"https://github.com/he883/GDPT/blob/lib/%E9%85%B76%E7%BD%91.js"},
 
 
 
